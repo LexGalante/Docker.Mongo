@@ -8,7 +8,7 @@ docker-compose up -d
 
 Acesse [http://localhost:8081](http://localhost:8081)
 
-Para para o serviço
+Parar o serviço
 ```
 docker-compose down
 ```
